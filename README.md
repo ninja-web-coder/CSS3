@@ -1,2 +1,2 @@
-# CSS3
-Designing html page with CSS3
+# Ultimate Frisbee
+Designing Ultimate Frisbee website 
